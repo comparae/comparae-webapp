@@ -804,6 +804,11 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@comparae/ui@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@comparae/ui/-/ui-0.1.0.tgz#1f5c6041f26fe032746a0a03512af32392fa7338"
+  integrity sha512-AvJnpD1Y+sP0CEXhMp8/T36iG9QOw9RsAfPK/Sct6WZ1ZA6MYGfJodCgy0TVtDD5DU8qsKcI+vLKbX5NMXV1Cg==
+
 "@emotion/is-prop-valid@^0.8.1":
   version "0.8.2"
   resolved "https://registry.yarnpkg.com/@emotion/is-prop-valid/-/is-prop-valid-0.8.2.tgz#b9692080da79041683021fcc32f96b40c54c59dc"
