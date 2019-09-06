@@ -1,0 +1,18 @@
+{
+  "name": "@comparae/comparae-webapp",
+  "version": "0.1.0",
+  "description": "Comparae Web App",
+  "main": "index.js",
+  "author": "comparaedevs",
+  "license": "ISC",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
