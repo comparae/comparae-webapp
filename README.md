@@ -1,4 +1,4 @@
-# Comparaê Web App
+# Comparaê Web Application
 
 This project was bootstrapped with [Next.js](https://github.com/zeit/next.js)
 
