@@ -804,10 +804,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@comparae/ui@0.4.0":
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/@comparae/ui/-/ui-0.4.0.tgz#b75f2f8eaf062452ec6f2ed0a8350455412941cc"
-  integrity sha512-9rDLjHYSAEUDXMzZbvEKdvCCxRJGihKWD+GKKrC0UPPHhpWouJiInprXrKeQ8eqX30khV7mncvfQXVQw8nE70g==
+"@comparae/ui@0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@comparae/ui/-/ui-0.5.0.tgz#4d40e5927fa4f1a7b2fd9a5ceae77000aee66c56"
+  integrity sha512-lwR5TIyGBUFYUpgJL0zwkUvtg+DhWvSstgyzY+FGhdMUsljuak09fzGLALlhG5QahUidNjZdyIVFf6dQfFDUFA==
 
 "@emotion/is-prop-valid@^0.8.1":
   version "0.8.2"
