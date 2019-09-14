@@ -14,5 +14,5 @@ export default function Index() {
 
 const Title = styled.h1`
   font-size: 48px;
-  color: ${({ theme }) => theme.primary};
+  color: ${({ theme }) => theme.colors.primary};
 `;
