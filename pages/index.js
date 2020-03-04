@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { Button } from '@comparae/ui';
 
 import Layout from '../components/Layout';
 
